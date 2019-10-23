@@ -1,0 +1,17 @@
+:docinfo:
+= geolocationApp
+Documentation
+:nofooter:
+
+This document describes the geolocationApp app.
+
+include::subpage.adoc[]
+
+include::additionalpage.adoc[]
+
+== About
+
+geolocationApp +
+(C) Your Company
+
+https://your-website.com/
